@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DevGame\\Unity3d\\DemoFSharp\\FSharp\\Unity3dClassLibrary.fsproj": {}
+    "E:\\DevGame\\Unity3d\\DemoFSharp\\FSharpSources\\Unity3dClassLibrary.fsproj": {}
   },
   "projects": {
-    "E:\\DevGame\\Unity3d\\DemoFSharp\\FSharp\\Unity3dClassLibrary.fsproj": {
+    "E:\\DevGame\\Unity3d\\DemoFSharp\\FSharpSources\\Unity3dClassLibrary.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DevGame\\Unity3d\\DemoFSharp\\FSharp\\Unity3dClassLibrary.fsproj",
-        "projectName": "Unity3dClassLibrary",
-        "projectPath": "E:\\DevGame\\Unity3d\\DemoFSharp\\FSharp\\Unity3dClassLibrary.fsproj",
+        "projectUniqueName": "E:\\DevGame\\Unity3d\\DemoFSharp\\FSharpSources\\Unity3dClassLibrary.fsproj",
+        "projectName": "FShrapLibrary",
+        "projectPath": "E:\\DevGame\\Unity3d\\DemoFSharp\\FSharpSources\\Unity3dClassLibrary.fsproj",
         "packagesPath": "C:\\Users\\quynh\\.nuget\\packages\\",
-        "outputPath": "E:\\DevGame\\Unity3d\\DemoFSharp\\FSharp\\obj\\",
+        "outputPath": "E:\\DevGame\\Unity3d\\DemoFSharp\\FSharpSources\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

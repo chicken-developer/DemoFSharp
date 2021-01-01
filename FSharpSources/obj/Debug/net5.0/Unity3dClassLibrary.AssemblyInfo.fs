@@ -7,11 +7,11 @@ open System
 open System.Reflection
 
 
-[<assembly: System.Reflection.AssemblyCompanyAttribute("Unity3dClassLibrary")>]
+[<assembly: System.Reflection.AssemblyCompanyAttribute("FShrapLibrary")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
 [<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")>]
-[<assembly: System.Reflection.AssemblyProductAttribute("Unity3dClassLibrary")>]
-[<assembly: System.Reflection.AssemblyTitleAttribute("Unity3dClassLibrary")>]
+[<assembly: System.Reflection.AssemblyProductAttribute("FShrapLibrary")>]
+[<assembly: System.Reflection.AssemblyTitleAttribute("FShrapLibrary")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]
 do()

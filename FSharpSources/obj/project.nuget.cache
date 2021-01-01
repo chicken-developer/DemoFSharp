@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EzHTmf+LnqG+IB9XelTcwFyLU2YurR6qQN3ydqGtVBPZf6ZA56/PUv6MCEeL4MB2zqhGjutkzqXm/ACZDPuLpw==",
+  "success": true,
+  "projectFilePath": "E:\\DevGame\\Unity3d\\DemoFSharp\\FSharpSources\\Unity3dClassLibrary.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\quynh\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

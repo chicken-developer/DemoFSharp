@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>FShrapLibrary</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>
@@ -218,7 +219,7 @@
   </ItemGroup>
 
   <Target Name="PostBuild" AfterTargets="PostBuildEvent">
-    <Exec Command="xcopy $(TargetPath) $(SolutionDir)\..\Assets\ /Y&#xD;&#xA;" />
+    <Exec Command="xcopy $(TargetPath) $(SolutionDir)\..\Assets\FSharpLib\ /Y&#xD;&#xA;" />
   </Target>
 
 </Project>
